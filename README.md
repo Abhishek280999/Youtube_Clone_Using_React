@@ -2,6 +2,13 @@
 
 This project was bootstrapped with Create React App.
 
+
+Home Page 
+![Screenshot (50)](https://github.com/Abhishek280999/Youtube_Clone_Using_React/assets/117111036/f855c94b-2630-40db-9ec1-513161e65b7f)
+
+
+
+
 Available Scripts
 In the project directory, you can run:
 
