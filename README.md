@@ -12,6 +12,19 @@ Search By Cat
 ![Screenshot (51)](https://github.com/Abhishek280999/Youtube_Clone_Using_React/assets/117111036/2c2df160-b6d7-4cfe-9ba5-101ba7fba17b)
 
 
+Search Sugg
+
+![Screenshot (52)](https://github.com/Abhishek280999/Youtube_Clone_Using_React/assets/117111036/b593dc3c-5a44-4082-8817-ca240fb91271)
+
+
+Watch page  and Live Chat
+
+
+![Screenshot (53)](https://github.com/Abhishek280999/Youtube_Clone_Using_React/assets/117111036/4aa13962-8a3c-407f-8f13-e1b0b20c105b)
+
+Comment  and Related video
+
+![Screenshot (54)](https://github.com/Abhishek280999/Youtube_Clone_Using_React/assets/117111036/0193142f-4377-4a56-af86-dfb236a09900)
 
 
 
