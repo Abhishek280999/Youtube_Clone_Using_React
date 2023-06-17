@@ -1,6 +1,6 @@
 # Youtube_Clone_Using_React
 
-This project was bootstrapped with Create React App.
+
 
 
 Home Page 
