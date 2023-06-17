@@ -29,7 +29,7 @@ const VideoContainer = () => {
   }
 
   return (
-    <div className="grid grid-cols-3  justify-around lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
+    <div className="flex flex-wrap  justify-around ">
       {videos.map((video) => (
         <Link to={"/watch?v=" + video.id} key={video.id}>
           <VideoCard info={video} />
