@@ -1,7 +1,7 @@
 const Shimmer = () => {
   return (
     <>
-      <div className="animate-pulse p-2 m-2 grid grid-cols-3 justify-center">
+      <div className="animate-pulse p-2 m-2 flex flex-wrap justify-center">
         {Array(40)
           .fill("")
           .map((e, index) => {
