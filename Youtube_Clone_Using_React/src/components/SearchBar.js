@@ -64,7 +64,7 @@ const SearchBar = () => {
           <input
             type="text"
             placeholder="Search..."
-            className="w-[550px] border rounded-s-full px-7 shadow-lg dark:bg-zinc-800"
+            className="w-[550px] border rounded-s-full px-7 lg:w-[550px] md:w-[400px] sm:w-[250px] shadow-lg dark:bg-zinc-800"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             onFocus={() => dispatch(showSuggestionsContainer(true))}
